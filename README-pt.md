@@ -30,7 +30,7 @@
 ## 📊 Minhas Estatísticas no GitHub
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TiagoSPimentel&theme=dracula&hide_border=true" alt="Estatísticas de Sequência do Tiago" />
+  <img src="https://streak-stats.demolab.com/?user=TiagoSPimentel&theme=dark&hide_border=true" alt="Tiago's Streak Stats" />
 </div>
 
 ---
